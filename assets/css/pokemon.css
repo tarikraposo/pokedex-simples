@@ -1,0 +1,119 @@
+.grass{
+    background-color: #77c850;
+}
+.bg-grass{
+    background: linear-gradient(45deg, #cbeeb1 0%,#9edd6d 50%,#77c850 51%, #cbeeb1 100%);
+}
+
+.fire{
+    background: #ee7f30;
+}
+.bg-fire{
+    background: linear-gradient(45deg, #f7b28d 0%,#ee873e 50%,#ee7f30 51%,#f7b28d 100%); 
+}
+
+.water{
+    background-color: #678fee;
+}
+.bg-water{
+    background: linear-gradient(45deg, #b3dced 0%,#60c6e6 50%,#678fee 51%,#b3dced 100%);
+}
+
+.bug{
+    background-color: #a8b720;
+}
+.bg-bug{
+    background: linear-gradient(45deg, #e6f0a3 0%,#d2e638 50%,#a8b720 51%,#e6f0a3 100%);;
+}
+
+.normal{
+    background-color: #a6a877;
+}
+.bg-normal{
+    background: linear-gradient(45deg, #e4efc0 0%,#abbd73 50%, #a6a877 51%, #e4efc0 100%);
+}
+
+.poison{
+    background-color: #a040a0;
+}
+.bg-poison{
+    background: linear-gradient(45deg, #e570e7 0%,#c85ec7 50%,#a040a0 51%, #e570e7 100%);
+}
+
+.electric{
+    background-color: #f7cf2e;
+}
+.bg-electric{
+    background: linear-gradient(45deg, #f0ee76 0%,#f5e254 50%, #f7cf2e 51%, #f0ee76 100%);
+}
+
+.ground{
+    background-color: #dfbf69;
+}
+.bg-ground{
+    background: linear-gradient(45deg, #ddc78a 0%,#d6bd78 50%,#dfbf69 51%, #ddc78a 100% );
+}
+
+.fairy{
+    background-color: #f9aec7;
+}
+.bg-fairy{
+    background: linear-gradient(45deg, #fccfde 0%,#f7c4d5 50%,#f9aec7 51%, #fccfde 100% );
+}
+
+.dark {
+    background-color: #725847;
+}
+.bg-dark{
+    background: linear-gradient(45deg, #7c7571 0%,#726861 50%,#725847 51%, #7c7571 100% );
+}
+
+.fighting{
+    background-color: #bf3029;
+}
+.bg-fighting{
+    background: linear-gradient(45deg, #be6d68 0%,#b35955 50%,#bf3029 51%, #be6d68 100% )
+}
+
+.psychic{
+    background-color: #f65687;
+}
+.bg-psychic{
+    background: linear-gradient(45deg, #f385a6 0%,#f784a6 50%,#f65687 51%, #f385a6 100%);
+}
+.rock{
+    background-color: #b8a137;
+}
+.bg-rock{
+    background: linear-gradient(45deg, #b8ad7c 0%,#b8a44f 50%,#b8a137 51%, #b8ad7c 100%);
+}
+.ghost{
+    background-color: #6e5896;
+}
+.bg-ghost{
+    background: linear-gradient(45deg, #927fb6 0%,#6e5b91 50%,#6e5896 51%, #927fb6 100%);
+}
+.ice{
+    background-color: #56f1f7;
+}
+.bg-ice{
+    background: linear-gradient(45deg, #9aeff1 0%,#80eff3 50%,#56f1f7 51%, #9aeff1 100%);
+}
+.dragon {
+    background-color: #6f38f6;
+}
+.bg-dragon{
+    background: linear-gradient(45deg, #a789f5 0%,#885df3 50%,#6f38f6 51%, #a789f5 100%);
+}
+.steel{
+    background-color: #b9b7cf;
+}
+.bg-steel{
+    background: linear-gradient(45deg, #bfbec4 0%,#c2c1cf 50%,#b9b7cf 51%, #bfbec4 100%);
+}
+.flying{
+    background-color: #87cefa;
+}
+.bg-flying{
+    background: linear-gradient(45deg, #a6d7f5 0%,#96cff3 50%,#87cefa 51%, #a6d7f5 100%);
+}
